@@ -4,7 +4,9 @@
 
 ![alt text](./message.png)
 
-Consejo: ¡Puedes usar [esta extensión](https://github.com/MohamadKh75/ShutHub) para ocultarlo!
+**Consejo**: ~~¡Puedes usar [esta extensión](https://github.com/MohamadKh75/ShutHub) para ocultarlo!~~
+
+**Update**: Ahora se puede ocultar
 
 ![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
